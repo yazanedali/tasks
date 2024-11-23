@@ -12,8 +12,8 @@ function SumAndAverage(numbers) {
 const Arr1 = [10, 20, 30, 40 ,50];
 const res1 = SumAndAverage(Arr)
 
-console.log("Total sum: ",res.Tsum);
-console.log("Total sum: ",res.average);
+console.log("Total sum: ",res1.Tsum);
+console.log("Total sum: ",res1.average);
 
 
 
@@ -23,6 +23,6 @@ function distinct(arr){
 } 
 
 const Arr2 = ["ahmad", "adham", "yazan", "ahmad", "adham"];
-const res2 = distinct(arr);
+const res2 = distinct(Arr2);
 
-console.log(res);
+console.log(res2);
