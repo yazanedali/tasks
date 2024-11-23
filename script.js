@@ -10,7 +10,7 @@ function SumAndAverage(numbers) {
 }
 
 const Arr1 = [10, 20, 30, 40 ,50];
-const res1 = SumAndAverage(Arr)
+const res1 = SumAndAverage(Arr1)
 
 console.log("Total sum: ",res1.Tsum);
 console.log("Total sum: ",res1.average);
